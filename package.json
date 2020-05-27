@@ -1,5 +1,5 @@
 {
-  "name": "react-native-notification-sounds",
+  "name": "react-native-awesome-sounds",
   "version": "0.2.4",
   "description": "Native notification sounds list. returns the id, title and url of the sounds",
   "main": "index.js",
@@ -14,16 +14,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saadqbal/react-native-notification-sounds.git",
-    "baseUrl": "https://github.com/saadqbal/react-native-notification-sounds"
+    "url": "git+https://github.com/pavkout/react-native-notification-sounds.git",
+    "baseUrl": "https://github.com/pavkout/react-native-notification-sounds"
   },
   "bugs": {
-    "url": "https://github.com/saadqbal/react-native-notification-sounds/issues"
+    "url": "https://github.com/pavkout/react-native-notification-sounds/issues"
   },
-  "homepage": "https://github.com/saadqbal/react-native-notification-sounds#readme",
+  "homepage": "https://github.com/pavkout/react-native-notification-sounds#readme",
   "author": {
-    "name": "Asad Iqbal",
-    "email": "asad.dsoft@gmail.com"
+    "name": "Pavlos Koutoglou",
+    "email": "pkoutoglou@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
